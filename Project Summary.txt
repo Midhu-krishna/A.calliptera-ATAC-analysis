@@ -10,11 +10,7 @@ Methods
 
 -> GO Enrichment & Pathway Analysis: Genes associated with differentially accessible regions were analyzed using g:Profiler to identify overrepresented biological processes and pathways.
 
--> Transcription Factor Analysis: TOBIAS was used for TF footprinting and binding dynamics to identify stage-specific TF activity and regulatory networks.
-
--> Clustering: TF footprints were clustered to reveal patterns of regulatory coordination across development.
-
-
+-
 Expected Results
 -> Identification of dynamic changes in chromatin accessibility that correspond with key developmental transitions.
 
