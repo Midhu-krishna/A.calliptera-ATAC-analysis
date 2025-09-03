@@ -1,0 +1,383 @@
+"source"	"stage"	"term_name"	"adjusted_p_value"
+"GO:BP"	"7dpf"	"developmental process"	3.79361959908252e-59
+"GO:BP"	"7dpf"	"anatomical structure development"	2.89806446584277e-57
+"GO:BP"	"7dpf"	"multicellular organism development"	5.2788047541944e-49
+"GO:BP"	"7dpf"	"system development"	7.91026577568995e-40
+"GO:BP"	"7dpf"	"animal organ development"	3.38795043992266e-33
+"GO:BP"	"7dpf"	"cell differentiation"	8.7873661948094e-30
+"GO:BP"	"7dpf"	"cellular developmental process"	8.7873661948094e-30
+"GO:BP"	"7dpf"	"multicellular organismal process"	1.77536806835116e-29
+"GO:BP"	"7dpf"	"anatomical structure morphogenesis"	3.43398850477986e-29
+"GO:BP"	"7dpf"	"cell development"	1.59627340165169e-24
+"GO:BP"	"7dpf"	"nervous system development"	2.98907321297717e-22
+"GO:BP"	"7dpf"	"tissue development"	4.98226209639453e-22
+"GO:BP"	"7dpf"	"embryo development"	7.39872500935129e-20
+"GO:BP"	"7dpf"	"transport"	6.99464911102773e-19
+"GO:BP"	"7dpf"	"localization"	9.86364976393739e-19
+"GO:BP"	"7dpf"	"establishment of localization"	1.09877648969256e-18
+"GO:BP"	"7dpf"	"neurogenesis"	1.79389970735998e-15
+"GO:BP"	"7dpf"	"generation of neurons"	1.22641510321916e-14
+"GO:BP"	"7dpf"	"neuron differentiation"	4.11825427855043e-14
+"GO:BP"	"7dpf"	"DNA-templated transcription"	6.81368221058792e-14
+"GO:BP"	"7dpf"	"regulation of primary metabolic process"	9.55861543509893e-14
+"GO:BP"	"7dpf"	"circulatory system development"	1.54684410742823e-13
+"GO:BP"	"7dpf"	"regulation of nucleobase-containing compound metabolic process"	1.6212052342783e-13
+"GO:BP"	"7dpf"	"epithelium development"	1.69049209535451e-13
+"GO:BP"	"7dpf"	"regulation of RNA metabolic process"	4.24734524192018e-13
+"GO:BP"	"7dpf"	"plasma membrane bounded cell projection organization"	6.64718388256975e-13
+"GO:BP"	"7dpf"	"embryonic morphogenesis"	1.0157933967982e-12
+"GO:BP"	"7dpf"	"animal organ morphogenesis"	1.04751420203088e-12
+"GO:BP"	"7dpf"	"neuron development"	2.49645300258021e-12
+"GO:BP"	"7dpf"	"cell projection organization"	5.45466987069349e-12
+"GO:BP"	"7dpf"	"regulation of RNA biosynthetic process"	1.78624750748561e-11
+"GO:BP"	"7dpf"	"regulation of DNA-templated transcription"	1.78624750748561e-11
+"GO:BP"	"7dpf"	"anatomical structure formation involved in morphogenesis"	2.39121512189978e-11
+"GO:BP"	"7dpf"	"regulation of developmental process"	2.00704813376344e-10
+"GO:BP"	"7dpf"	"tube development"	2.16820274164798e-10
+"GO:BP"	"7dpf"	"organelle organization"	2.25841729407773e-10
+"GO:BP"	"7dpf"	"monoatomic ion transmembrane transport"	3.07771909426939e-10
+"GO:BP"	"7dpf"	"phosphate-containing compound metabolic process"	5.07751112576446e-10
+"GO:BP"	"7dpf"	"tissue morphogenesis"	5.07751112576446e-10
+"GO:BP"	"7dpf"	"phosphorus metabolic process"	5.07751112576446e-10
+"GO:BP"	"7dpf"	"embryonic organ development"	1.1556794278264e-09
+"GO:BP"	"7dpf"	"sensory organ development"	1.35402516503743e-09
+"GO:BP"	"7dpf"	"monoatomic ion transport"	1.45632660110387e-09
+"GO:BP"	"7dpf"	"transmembrane transport"	9.27444967552631e-09
+"GO:BP"	"7dpf"	"regulation of metabolic process"	2.00952384326386e-08
+"GO:BP"	"7dpf"	"regulation of cell communication"	2.37132209918022e-08
+"GO:BP"	"7dpf"	"tube morphogenesis"	3.67854204835882e-08
+"GO:BP"	"7dpf"	"morphogenesis of an epithelium"	4.15286703689917e-08
+"GO:BP"	"7dpf"	"sensory system development"	4.4130693363346e-08
+"GO:BP"	"7dpf"	"pattern specification process"	5.08918738134032e-08
+"GO:BP"	"7dpf"	"regulation of signaling"	5.08918738134032e-08
+"GO:BP"	"7dpf"	"neuron projection development"	6.63060288768624e-08
+"GO:BP"	"7dpf"	"regulation of signal transduction"	8.92036868528503e-08
+"GO:BP"	"7dpf"	"regionalization"	1.31492254985264e-07
+"GO:BP"	"7dpf"	"positive regulation of cellular process"	1.65855809671717e-07
+"GO:BP"	"7dpf"	"phosphorylation"	1.65855809671717e-07
+"GO:BP"	"7dpf"	"regulation of macromolecule metabolic process"	1.94587372740555e-07
+"GO:BP"	"7dpf"	"intracellular signal transduction"	2.35666134885866e-07
+"GO:BP"	"7dpf"	"cellular localization"	2.58384842695929e-07
+"GO:BP"	"7dpf"	"heart development"	2.79071018542259e-07
+"GO:BP"	"7dpf"	"central nervous system development"	3.13496545352917e-07
+"GO:BP"	"7dpf"	"homeostatic process"	3.13496545352917e-07
+"GO:BP"	"7dpf"	"hemopoiesis"	3.8120338959979e-07
+"GO:BP"	"7dpf"	"regulation of biosynthetic process"	4.17659662514074e-07
+"GO:BP"	"7dpf"	"cell morphogenesis"	5.7239038986723e-07
+"GO:BP"	"7dpf"	"vasculature development"	7.50698289051246e-07
+"GO:BP"	"7dpf"	"regulation of macromolecule biosynthetic process"	9.35676546999526e-07
+"GO:BP"	"7dpf"	"axon development"	9.67672158368431e-07
+"GO:BP"	"7dpf"	"cell morphogenesis involved in neuron differentiation"	9.67672158368431e-07
+"GO:BP"	"7dpf"	"embryo development ending in birth or egg hatching"	9.89019532583818e-07
+"GO:BP"	"7dpf"	"embryonic organ morphogenesis"	1.05039878164246e-06
+"GO:BP"	"7dpf"	"regulation of gene expression"	1.09218816881854e-06
+"GO:BP"	"7dpf"	"chordate embryonic development"	1.09218816881854e-06
+"GO:BP"	"7dpf"	"vesicle-mediated transport"	1.19270744435986e-06
+"GO:BP"	"7dpf"	"cell projection morphogenesis"	1.41816008936867e-06
+"GO:BP"	"7dpf"	"inorganic ion transmembrane transport"	1.59231626486867e-06
+"GO:BP"	"7dpf"	"plasma membrane bounded cell projection morphogenesis"	1.59231626486867e-06
+"GO:BP"	"7dpf"	"neuron projection morphogenesis"	1.59231626486867e-06
+"GO:BP"	"7dpf"	"regulation of multicellular organismal process"	1.86324926509749e-06
+"GO:BP"	"7dpf"	"eye development"	2.73632709997815e-06
+"GO:BP"	"7dpf"	"visual system development"	2.73632709997815e-06
+"GO:BP"	"7dpf"	"retina development in camera-type eye"	2.73632709997815e-06
+"GO:BP"	"7dpf"	"axonogenesis"	2.78008241709703e-06
+"GO:BP"	"7dpf"	"camera-type eye development"	2.9139728762321e-06
+"GO:BP"	"7dpf"	"skeletal system development"	5.87749883526435e-06
+"GO:BP"	"7dpf"	"multicellular organismal-level homeostasis"	6.77705153624709e-06
+"GO:BP"	"7dpf"	"establishment of localization in cell"	7.53733886428077e-06
+"GO:BP"	"7dpf"	"gastrulation"	7.78782125830577e-06
+"GO:BP"	"7dpf"	"nitrogen compound transport"	8.59930774654457e-06
+"GO:BP"	"7dpf"	"sensory organ morphogenesis"	8.96690813449528e-06
+"GO:BP"	"7dpf"	"organelle assembly"	9.44210672652473e-06
+"GO:BP"	"7dpf"	"regulation of multicellular organismal development"	1.86051995972901e-05
+"GO:BP"	"7dpf"	"cell projection assembly"	2.9162955214817e-05
+"GO:BP"	"7dpf"	"blood vessel development"	3.53164065843695e-05
+"GO:BP"	"7dpf"	"plasma membrane bounded cell projection assembly"	3.87828851746537e-05
+"GO:BP"	"7dpf"	"metal ion transport"	5.24040830837867e-05
+"GO:BP"	"7dpf"	"monoatomic cation transmembrane transport"	5.66491199736028e-05
+"GO:BP"	"7dpf"	"brain development"	5.75434399746994e-05
+"GO:BP"	"7dpf"	"cilium assembly"	6.85954934672434e-05
+"GO:BP"	"7dpf"	"blood vessel morphogenesis"	7.70059787151973e-05
+"GO:BP"	"7dpf"	"macromolecule localization"	7.70059787151973e-05
+"GO:BP"	"7dpf"	"enzyme-linked receptor protein signaling pathway"	9.65031211208898e-05
+"GO:BP"	"7dpf"	"intracellular transport"	0.000102199826304419
+"GO:BP"	"7dpf"	"muscle structure development"	0.000108849459375138
+"GO:BP"	"7dpf"	"head development"	0.000119132883061707
+"GO:BP"	"7dpf"	"cellular macromolecule localization"	0.000140083273993996
+"GO:BP"	"7dpf"	"gland development"	0.000158302636344247
+"GO:BP"	"7dpf"	"growth"	0.000159255209818682
+"GO:BP"	"7dpf"	"protein localization"	0.000166027059883623
+"GO:BP"	"7dpf"	"organophosphate metabolic process"	0.000166224556058498
+"GO:BP"	"7dpf"	"inorganic cation transmembrane transport"	0.000176640759712127
+"GO:BP"	"7dpf"	"positive regulation of nucleobase-containing compound metabolic process"	0.000178730044447497
+"GO:BP"	"7dpf"	"cilium organization"	0.000178730044447497
+"GO:BP"	"7dpf"	"regulation of cell differentiation"	0.000201317314202842
+"GO:BP"	"7dpf"	"protein transport"	0.000209224131456219
+"GO:BP"	"7dpf"	"transcription by RNA polymerase II"	0.000229669857738401
+"GO:BP"	"7dpf"	"monoatomic cation transport"	0.000246138579922081
+"GO:BP"	"7dpf"	"positive regulation of metabolic process"	0.000250655750921869
+"GO:BP"	"7dpf"	"developmental growth"	0.000289074620257084
+"GO:BP"	"7dpf"	"positive regulation of RNA metabolic process"	0.000298864408961473
+"GO:BP"	"7dpf"	"calcium ion transport"	0.000298864408961473
+"GO:BP"	"7dpf"	"regulation of transcription by RNA polymerase II"	0.000415886207090343
+"GO:BP"	"7dpf"	"eye morphogenesis"	0.000446458213794504
+"GO:BP"	"7dpf"	"left/right pattern formation"	0.000446458213794504
+"GO:BP"	"7dpf"	"positive regulation of macromolecule metabolic process"	0.000459819105371009
+"GO:BP"	"7dpf"	"establishment of protein localization"	0.000484239632180743
+"GO:BP"	"7dpf"	"behavior"	0.000499153268749822
+"GO:BP"	"7dpf"	"determination of left/right symmetry"	0.000499153268749822
+"GO:BP"	"7dpf"	"specification of symmetry"	0.000526458924225491
+"GO:BP"	"7dpf"	"determination of bilateral symmetry"	0.000526458924225491
+"GO:BP"	"7dpf"	"cellular process"	0.000528083974161344
+"GO:BP"	"7dpf"	"cell surface receptor signaling pathway"	0.000560801478918786
+"GO:BP"	"7dpf"	"camera-type eye morphogenesis"	0.000578639675435158
+"GO:BP"	"7dpf"	"intracellular signaling cassette"	0.000785575067546689
+"GO:BP"	"7dpf"	"cell surface receptor protein tyrosine kinase signaling pathway"	0.00104049710011608
+"GO:BP"	"7dpf"	"positive regulation of biosynthetic process"	0.001140262393834
+"GO:BP"	"7dpf"	"cranial skeletal system development"	0.00119130328310548
+"GO:BP"	"7dpf"	"inorganic anion transport"	0.00136404798954042
+"GO:BP"	"7dpf"	"positive regulation of macromolecule biosynthetic process"	0.00145205266052218
+"GO:BP"	"7dpf"	"monoatomic anion transport"	0.00154007505727122
+"GO:BP"	"7dpf"	"muscle organ development"	0.00154007505727122
+"GO:BP"	"7dpf"	"convergent extension"	0.00160120127295451
+"GO:BP"	"7dpf"	"epithelial cell differentiation"	0.00182657127065102
+"GO:BP"	"7dpf"	"hepaticobiliary system development"	0.00185558382357959
+"GO:BP"	"7dpf"	"monoatomic anion transmembrane transport"	0.00202030846589503
+"GO:BP"	"7dpf"	"positive regulation of RNA biosynthetic process"	0.00204669962202921
+"GO:BP"	"7dpf"	"positive regulation of DNA-templated transcription"	0.00204669962202921
+"GO:BP"	"7dpf"	"renal system development"	0.00225353472755732
+"GO:BP"	"7dpf"	"heart morphogenesis"	0.00225353472755732
+"GO:BP"	"7dpf"	"axon guidance"	0.00225353472755732
+"GO:BP"	"7dpf"	"neuron projection guidance"	0.00225353472755732
+"GO:BP"	"7dpf"	"angiogenesis"	0.00231915143120045
+"GO:BP"	"7dpf"	"liver development"	0.00239735244840927
+"GO:BP"	"7dpf"	"retina morphogenesis in camera-type eye"	0.00239735244840927
+"GO:BP"	"7dpf"	"kidney development"	0.00253305889755922
+"GO:BP"	"7dpf"	"phospholipid metabolic process"	0.00253305889755922
+"GO:BP"	"7dpf"	"purine nucleotide metabolic process"	0.00255399323839651
+"GO:BP"	"7dpf"	"homeostasis of number of cells"	0.00320640004135626
+"GO:BP"	"7dpf"	"muscle tissue development"	0.00330090323503906
+"GO:BP"	"7dpf"	"connective tissue development"	0.0033065849679343
+"GO:BP"	"7dpf"	"ribose phosphate metabolic process"	0.00363318275902585
+"GO:BP"	"7dpf"	"skeletal muscle organ development"	0.00367569703496376
+"GO:BP"	"7dpf"	"striated muscle tissue development"	0.00368246987581373
+"GO:BP"	"7dpf"	"ribonucleotide metabolic process"	0.00402770277230327
+"GO:BP"	"7dpf"	"digestive system development"	0.00416676138387579
+"GO:BP"	"7dpf"	"secretion by cell"	0.00416676138387579
+"GO:BP"	"7dpf"	"pancreas development"	0.00416676138387579
+"GO:BP"	"7dpf"	"regulation of intracellular signal transduction"	0.00444035892393041
+"GO:BP"	"7dpf"	"muscle cell differentiation"	0.00467072513666259
+"GO:BP"	"7dpf"	"response to abiotic stimulus"	0.00498176554895424
+"GO:BP"	"7dpf"	"cartilage development"	0.00551011568433416
+"GO:BP"	"7dpf"	"skeletal system morphogenesis"	0.00617821215024379
+"GO:BP"	"7dpf"	"anterior/posterior pattern specification"	0.00617821215024379
+"GO:BP"	"7dpf"	"stem cell differentiation"	0.0107954338102531
+"GO:BP"	"7dpf"	"inorganic anion transmembrane transport"	0.0133911411245589
+"GO:BP"	"7dpf"	"secretion"	0.0133911411245589
+"GO:BP"	"7dpf"	"regulation of anatomical structure morphogenesis"	0.0133911411245589
+"GO:BP"	"7dpf"	"embryonic skeletal system development"	0.0133911411245589
+"GO:BP"	"7dpf"	"regulation of response to stimulus"	0.0145140822550389
+"GO:BP"	"7dpf"	"muscle cell development"	0.0197454352441839
+"GO:BP"	"7dpf"	"catabolic process"	0.0220319772137065
+"GO:BP"	"7dpf"	"lateral line system development"	0.0224581755455094
+"GO:BP"	"7dpf"	"regulation of biological quality"	0.0231775432843159
+"GO:BP"	"7dpf"	"embryonic skeletal system morphogenesis"	0.0253857750715968
+"GO:BP"	"7dpf"	"embryonic cranial skeleton morphogenesis"	0.0253857750715968
+"GO:BP"	"7dpf"	"purine-containing compound metabolic process"	0.0264240224481055
+"GO:BP"	"7dpf"	"striated muscle cell differentiation"	0.0277803134223884
+"GO:BP"	"7dpf"	"chloride transport"	0.0320442926507458
+"GO:BP"	"7dpf"	"chloride transmembrane transport"	0.0359544064118939
+"GO:BP"	"7dpf"	"biological regulation"	0.0475858752590402
+"GO:BP"	"7dpf"	"circulatory system process"	0.0491336312451353
+"GO:BP"	"12dpf"	"developmental process"	3.08253233248263e-50
+"GO:BP"	"12dpf"	"anatomical structure development"	4.38937406748569e-49
+"GO:BP"	"12dpf"	"multicellular organism development"	2.70637458348631e-41
+"GO:BP"	"12dpf"	"system development"	2.00924699311733e-34
+"GO:BP"	"12dpf"	"anatomical structure morphogenesis"	2.67589626893235e-27
+"GO:BP"	"12dpf"	"multicellular organismal process"	3.51223372336252e-27
+"GO:BP"	"12dpf"	"animal organ development"	2.39288018080245e-24
+"GO:BP"	"12dpf"	"cellular developmental process"	8.43558452961953e-24
+"GO:BP"	"12dpf"	"cell differentiation"	8.43558452961953e-24
+"GO:BP"	"12dpf"	"cell development"	6.85390702868087e-19
+"GO:BP"	"12dpf"	"tissue development"	7.05307893546704e-18
+"GO:BP"	"12dpf"	"nervous system development"	3.75132960522116e-16
+"GO:BP"	"12dpf"	"embryo development"	1.09248991450721e-14
+"GO:BP"	"12dpf"	"anatomical structure formation involved in morphogenesis"	3.40825734653848e-12
+"GO:BP"	"12dpf"	"transport"	3.40825734653848e-12
+"GO:BP"	"12dpf"	"establishment of localization"	8.74174542586396e-12
+"GO:BP"	"12dpf"	"localization"	1.57665124755099e-11
+"GO:BP"	"12dpf"	"circulatory system development"	2.35540056114502e-11
+"GO:BP"	"12dpf"	"neurogenesis"	5.15643451161080e-11
+"GO:BP"	"12dpf"	"embryonic morphogenesis"	2.19898876611978e-10
+"GO:BP"	"12dpf"	"animal organ morphogenesis"	5.85489248914433e-10
+"GO:BP"	"12dpf"	"generation of neurons"	7.87560421133043e-10
+"GO:BP"	"12dpf"	"neuron differentiation"	1.87691729135317e-09
+"GO:BP"	"12dpf"	"tube development"	3.22042626547053e-09
+"GO:BP"	"12dpf"	"epithelium development"	3.94070005380779e-09
+"GO:BP"	"12dpf"	"positive regulation of cellular process"	2.01517823031422e-08
+"GO:BP"	"12dpf"	"plasma membrane bounded cell projection organization"	2.33933618214437e-08
+"GO:BP"	"12dpf"	"neuron development"	2.3956604638443e-08
+"GO:BP"	"12dpf"	"regulation of developmental process"	7.3808581141385e-08
+"GO:BP"	"12dpf"	"DNA-templated transcription"	9.31883223814428e-08
+"GO:BP"	"12dpf"	"monoatomic ion transmembrane transport"	9.70570769262921e-08
+"GO:BP"	"12dpf"	"regulation of nucleobase-containing compound metabolic process"	1.38943636618452e-07
+"GO:BP"	"12dpf"	"regulation of primary metabolic process"	1.94470720964248e-07
+"GO:BP"	"12dpf"	"cell projection organization"	1.94470720964248e-07
+"GO:BP"	"12dpf"	"regulation of RNA metabolic process"	2.5444740572979e-07
+"GO:BP"	"12dpf"	"tube morphogenesis"	3.01912474086636e-07
+"GO:BP"	"12dpf"	"embryonic organ development"	5.12902090317216e-07
+"GO:BP"	"12dpf"	"transmembrane transport"	7.58629530019385e-07
+"GO:BP"	"12dpf"	"monoatomic ion transport"	1.31832012753417e-06
+"GO:BP"	"12dpf"	"phosphate-containing compound metabolic process"	1.37986536450682e-06
+"GO:BP"	"12dpf"	"phosphorus metabolic process"	1.37986536450682e-06
+"GO:BP"	"12dpf"	"tissue morphogenesis"	1.53221358775431e-06
+"GO:BP"	"12dpf"	"regulation of multicellular organismal process"	2.08541527779113e-06
+"GO:BP"	"12dpf"	"sensory organ development"	2.17191306829985e-06
+"GO:BP"	"12dpf"	"regulation of RNA biosynthetic process"	2.69123126235642e-06
+"GO:BP"	"12dpf"	"regulation of DNA-templated transcription"	2.69123126235642e-06
+"GO:BP"	"12dpf"	"vasculature development"	3.31265225740284e-06
+"GO:BP"	"12dpf"	"sensory system development"	4.49327119516126e-06
+"GO:BP"	"12dpf"	"organelle organization"	4.49327119516126e-06
+"GO:BP"	"12dpf"	"regulation of cell communication"	6.51531519122684e-06
+"GO:BP"	"12dpf"	"pattern specification process"	1.24528873544347e-05
+"GO:BP"	"12dpf"	"regulation of signaling"	1.69796085507483e-05
+"GO:BP"	"12dpf"	"embryo development ending in birth or egg hatching"	1.69796085507483e-05
+"GO:BP"	"12dpf"	"regulation of signal transduction"	1.76600846918743e-05
+"GO:BP"	"12dpf"	"chordate embryonic development"	1.82474665312166e-05
+"GO:BP"	"12dpf"	"muscle structure development"	2.28530899120265e-05
+"GO:BP"	"12dpf"	"regionalization"	2.33008757089405e-05
+"GO:BP"	"12dpf"	"neuron projection development"	2.85164536325348e-05
+"GO:BP"	"12dpf"	"morphogenesis of an epithelium"	2.93114033584644e-05
+"GO:BP"	"12dpf"	"hemopoiesis"	3.21294296420721e-05
+"GO:BP"	"12dpf"	"embryonic organ morphogenesis"	3.80786219089322e-05
+"GO:BP"	"12dpf"	"heart development"	4.01782061224967e-05
+"GO:BP"	"12dpf"	"cell morphogenesis"	4.23650072977732e-05
+"GO:BP"	"12dpf"	"homeostatic process"	4.32100744646949e-05
+"GO:BP"	"12dpf"	"phosphorylation"	4.47697319173924e-05
+"GO:BP"	"12dpf"	"blood vessel morphogenesis"	5.53062234654336e-05
+"GO:BP"	"12dpf"	"skeletal system development"	5.5888152611708e-05
+"GO:BP"	"12dpf"	"cell surface receptor signaling pathway"	5.86029101536593e-05
+"GO:BP"	"12dpf"	"blood vessel development"	6.64188587361588e-05
+"GO:BP"	"12dpf"	"organelle assembly"	8.91918768260143e-05
+"GO:BP"	"12dpf"	"central nervous system development"	8.91918768260143e-05
+"GO:BP"	"12dpf"	"inorganic ion transmembrane transport"	0.000103846311182805
+"GO:BP"	"12dpf"	"vesicle-mediated transport"	0.000109713201625412
+"GO:BP"	"12dpf"	"intracellular signal transduction"	0.000118685886591498
+"GO:BP"	"12dpf"	"positive regulation of nucleobase-containing compound metabolic process"	0.000143983160605259
+"GO:BP"	"12dpf"	"camera-type eye development"	0.000143983160605259
+"GO:BP"	"12dpf"	"cell morphogenesis involved in neuron differentiation"	0.000178282127315973
+"GO:BP"	"12dpf"	"axon development"	0.000178282127315973
+"GO:BP"	"12dpf"	"sensory organ morphogenesis"	0.000178282127315973
+"GO:BP"	"12dpf"	"biological regulation"	0.00021963812547818
+"GO:BP"	"12dpf"	"positive regulation of RNA metabolic process"	0.00021963812547818
+"GO:BP"	"12dpf"	"retina development in camera-type eye"	0.000236241595668552
+"GO:BP"	"12dpf"	"cell projection morphogenesis"	0.000236241595668552
+"GO:BP"	"12dpf"	"cellular localization"	0.000236241595668552
+"GO:BP"	"12dpf"	"plasma membrane bounded cell projection morphogenesis"	0.000256339086638646
+"GO:BP"	"12dpf"	"neuron projection morphogenesis"	0.000256339086638646
+"GO:BP"	"12dpf"	"visual system development"	0.000286848096810064
+"GO:BP"	"12dpf"	"eye development"	0.000286848096810064
+"GO:BP"	"12dpf"	"behavior"	0.000318620328153658
+"GO:BP"	"12dpf"	"axonogenesis"	0.000382973316190185
+"GO:BP"	"12dpf"	"multicellular organismal-level homeostasis"	0.000445236948125951
+"GO:BP"	"12dpf"	"gastrulation"	0.000496007320120269
+"GO:BP"	"12dpf"	"establishment of localization in cell"	0.000503384671401267
+"GO:BP"	"12dpf"	"regulation of biological quality"	0.000598427035276482
+"GO:BP"	"12dpf"	"angiogenesis"	0.000987477492659422
+"GO:BP"	"12dpf"	"positive regulation of metabolic process"	0.00105010342373551
+"GO:BP"	"12dpf"	"positive regulation of DNA-templated transcription"	0.00106996768211271
+"GO:BP"	"12dpf"	"positive regulation of RNA biosynthetic process"	0.00106996768211271
+"GO:BP"	"12dpf"	"regulation of metabolic process"	0.00118857521292101
+"GO:BP"	"12dpf"	"monoatomic cation transmembrane transport"	0.00123441714979799
+"GO:BP"	"12dpf"	"head development"	0.00141833375214402
+"GO:BP"	"12dpf"	"regulation of multicellular organismal development"	0.00141833375214402
+"GO:BP"	"12dpf"	"metal ion transport"	0.00147242267947395
+"GO:BP"	"12dpf"	"positive regulation of macromolecule metabolic process"	0.00160615288510973
+"GO:BP"	"12dpf"	"enzyme-linked receptor protein signaling pathway"	0.00160615288510973
+"GO:BP"	"12dpf"	"positive regulation of biosynthetic process"	0.00170291583132895
+"GO:BP"	"12dpf"	"camera-type eye morphogenesis"	0.00175818277651937
+"GO:BP"	"12dpf"	"cell projection assembly"	0.00184972784072692
+"GO:BP"	"12dpf"	"response to abiotic stimulus"	0.00184972784072692
+"GO:BP"	"12dpf"	"cellular process"	0.00201272327375211
+"GO:BP"	"12dpf"	"positive regulation of macromolecule biosynthetic process"	0.00202846382808116
+"GO:BP"	"12dpf"	"muscle cell differentiation"	0.00213068987650642
+"GO:BP"	"12dpf"	"plasma membrane bounded cell projection assembly"	0.00222497872887398
+"GO:BP"	"12dpf"	"nitrogen compound transport"	0.002231263119173
+"GO:BP"	"12dpf"	"brain development"	0.002231263119173
+"GO:BP"	"12dpf"	"growth"	0.002231263119173
+"GO:BP"	"12dpf"	"intracellular transport"	0.00225305126597921
+"GO:BP"	"12dpf"	"cranial skeletal system development"	0.00288848004409951
+"GO:BP"	"12dpf"	"eye morphogenesis"	0.00293997619290394
+"GO:BP"	"12dpf"	"inorganic anion transport"	0.00319857982472412
+"GO:BP"	"12dpf"	"cilium assembly"	0.00322735947138832
+"GO:BP"	"12dpf"	"monoatomic anion transport"	0.00348619995043499
+"GO:BP"	"12dpf"	"muscle organ development"	0.00348619995043499
+"GO:BP"	"12dpf"	"developmental growth"	0.00348619995043499
+"GO:BP"	"12dpf"	"intracellular signaling cassette"	0.00375707295399512
+"GO:BP"	"12dpf"	"monoatomic anion transmembrane transport"	0.00428245310518012
+"GO:BP"	"12dpf"	"organophosphate metabolic process"	0.00461348856931227
+"GO:BP"	"12dpf"	"regulation of response to stimulus"	0.00461348856931227
+"GO:BP"	"12dpf"	"regulation of macromolecule metabolic process"	0.00502664540328644
+"GO:BP"	"12dpf"	"inorganic cation transmembrane transport"	0.00522805683161777
+"GO:BP"	"12dpf"	"circulatory system process"	0.00522805683161777
+"GO:BP"	"12dpf"	"gland development"	0.00562408847451589
+"GO:BP"	"12dpf"	"connective tissue development"	0.00647923896908508
+"GO:BP"	"12dpf"	"regulation of biosynthetic process"	0.00655033968367548
+"GO:BP"	"12dpf"	"regulation of cell differentiation"	0.0067930595387804
+"GO:BP"	"12dpf"	"muscle cell development"	0.00713823579621545
+"GO:BP"	"12dpf"	"cilium organization"	0.00858858080529993
+"GO:BP"	"12dpf"	"monoatomic cation transport"	0.00865837217648657
+"GO:BP"	"12dpf"	"calcium ion transport"	0.00915001578895639
+"GO:BP"	"12dpf"	"regulation of intracellular signal transduction"	0.00931094950496813
+"GO:BP"	"12dpf"	"striated muscle cell differentiation"	0.00976675510888163
+"GO:BP"	"12dpf"	"cartilage development"	0.00976675510888163
+"GO:BP"	"12dpf"	"regulation of macromolecule biosynthetic process"	0.00993515181554516
+"GO:BP"	"12dpf"	"catabolic process"	0.0100274642868047
+"GO:BP"	"12dpf"	"skeletal system morphogenesis"	0.0107018869579569
+"GO:BP"	"12dpf"	"anterior/posterior pattern specification"	0.0107018869579569
+"GO:BP"	"12dpf"	"transcription by RNA polymerase II"	0.0109171405048765
+"GO:BP"	"12dpf"	"regulation of gene expression"	0.0109283944342045
+"GO:BP"	"12dpf"	"regulation of transcription by RNA polymerase II"	0.0112519013941953
+"GO:BP"	"12dpf"	"muscle tissue development"	0.0131046425729591
+"GO:BP"	"12dpf"	"striated muscle tissue development"	0.0145053160854132
+"GO:BP"	"12dpf"	"left/right pattern formation"	0.0157772040367616
+"GO:BP"	"12dpf"	"determination of left/right symmetry"	0.0172267609403525
+"GO:BP"	"12dpf"	"phospholipid metabolic process"	0.0172267609403525
+"GO:BP"	"12dpf"	"secretion"	0.0200409814825923
+"GO:BP"	"12dpf"	"convergent extension"	0.0200409814825923
+"GO:BP"	"12dpf"	"embryonic skeletal system development"	0.0200409814825923
+"GO:BP"	"12dpf"	"inorganic anion transmembrane transport"	0.0200409814825923
+"GO:BP"	"12dpf"	"regulation of anatomical structure morphogenesis"	0.0200409814825923
+"GO:BP"	"12dpf"	"cell surface receptor protein tyrosine kinase signaling pathway"	0.020963319124847
+"GO:BP"	"12dpf"	"protein transport"	0.0216275863958675
+"GO:BP"	"12dpf"	"hepaticobiliary system development"	0.0218877196829773
+"GO:BP"	"12dpf"	"determination of bilateral symmetry"	0.021960259471496
+"GO:BP"	"12dpf"	"specification of symmetry"	0.021960259471496
+"GO:BP"	"12dpf"	"macromolecule localization"	0.0231119659686893
+"GO:BP"	"12dpf"	"purine nucleotide metabolic process"	0.0238518092775617
+"GO:BP"	"12dpf"	"cellular macromolecule localization"	0.0239408396352371
+"GO:BP"	"12dpf"	"retina morphogenesis in camera-type eye"	0.0266231104685129
+"GO:BP"	"12dpf"	"liver development"	0.0266231104685129
+"GO:BP"	"12dpf"	"protein localization"	0.0266702608916319
+"GO:BP"	"12dpf"	"lateral line system development"	0.0296283464490196
+"GO:BP"	"12dpf"	"ribose phosphate metabolic process"	0.0305462868851427
+"GO:BP"	"12dpf"	"embryonic skeletal system morphogenesis"	0.0324613859702799
+"GO:BP"	"12dpf"	"embryonic cranial skeleton morphogenesis"	0.0324613859702799
+"GO:BP"	"12dpf"	"stem cell differentiation"	0.0324613859702799
+"GO:BP"	"12dpf"	"homeostasis of number of cells"	0.0324613859702799
+"GO:BP"	"12dpf"	"ribonucleotide metabolic process"	0.0326220793244713
+"GO:BP"	"12dpf"	"purine-containing compound metabolic process"	0.0335226046107841
+"GO:BP"	"12dpf"	"heart morphogenesis"	0.0349611139367816
+"GO:BP"	"12dpf"	"axon guidance"	0.0349611139367816
+"GO:BP"	"12dpf"	"renal system development"	0.0349611139367816
+"GO:BP"	"12dpf"	"neuron projection guidance"	0.0349611139367816
+"GO:BP"	"12dpf"	"skeletal muscle organ development"	0.0349683705592358
+"GO:BP"	"12dpf"	"secretion by cell"	0.0379600916249927
+"GO:BP"	"12dpf"	"epithelial cell differentiation"	0.0379600916249927
+"GO:BP"	"12dpf"	"pancreas development"	0.0379600916249927
+"GO:BP"	"12dpf"	"chloride transport"	0.0379600916249927
+"GO:BP"	"12dpf"	"kidney development"	0.0379600916249927
+"GO:BP"	"12dpf"	"digestive system development"	0.0379600916249927
+"GO:BP"	"12dpf"	"chloride transmembrane transport"	0.0422959159574461
+"GO:BP"	"12dpf"	"establishment of protein localization"	0.0440180969695285

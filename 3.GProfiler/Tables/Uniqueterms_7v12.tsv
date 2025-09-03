@@ -1,0 +1,85 @@
+"source"	"stage"	"term_name"	"adjusted_p_value"
+"GO:BP"	"7dpf"	"cellular component organization or biogenesis"	0.0012991455197758
+"GO:BP"	"7dpf"	"regulation of cellular component organization"	0.00154007505727122
+"GO:BP"	"7dpf"	"cellular component organization"	0.00300663814822708
+"GO:BP"	"7dpf"	"microtubule cytoskeleton organization"	0.00368246987581373
+"GO:BP"	"7dpf"	"ameboidal-type cell migration"	0.00421684499404062
+"GO:BP"	"7dpf"	"glycerolipid metabolic process"	0.00530623308509888
+"GO:BP"	"7dpf"	"cytoskeleton organization"	0.00558455585647857
+"GO:BP"	"7dpf"	"potassium ion transmembrane transport"	0.00563328736567823
+"GO:BP"	"7dpf"	"epithelial tube morphogenesis"	0.00592743757224648
+"GO:BP"	"7dpf"	"myeloid cell differentiation"	0.00592743757224648
+"GO:BP"	"7dpf"	"nucleotide metabolic process"	0.00623393623405649
+"GO:BP"	"7dpf"	"myeloid cell homeostasis"	0.00623393623405649
+"GO:BP"	"7dpf"	"skeletal muscle tissue development"	0.00623393623405649
+"GO:BP"	"7dpf"	"developmental growth involved in morphogenesis"	0.00725684282916942
+"GO:BP"	"7dpf"	"organophosphate biosynthetic process"	0.00861195319951588
+"GO:BP"	"7dpf"	"potassium ion transport"	0.00864089837553693
+"GO:BP"	"7dpf"	"calcium ion transmembrane transport"	0.0092588761098916
+"GO:BP"	"7dpf"	"erythrocyte homeostasis"	0.00955381246962393
+"GO:BP"	"7dpf"	"RNA catabolic process"	0.00955381246962393
+"GO:BP"	"7dpf"	"hindbrain development"	0.00955381246962393
+"GO:BP"	"7dpf"	"protein complex oligomerization"	0.00955381246962393
+"GO:BP"	"7dpf"	"erythrocyte differentiation"	0.00955381246962393
+"GO:BP"	"7dpf"	"MAPK cascade"	0.00955381246962393
+"GO:BP"	"7dpf"	"response to endogenous stimulus"	0.0107725759618626
+"GO:BP"	"7dpf"	"regulation of transport"	0.012983366131671
+"GO:BP"	"7dpf"	"purine ribonucleotide metabolic process"	0.0133911411245589
+"GO:BP"	"7dpf"	"heart process"	0.0147320612619972
+"GO:BP"	"7dpf"	"export from cell"	0.0152751628145386
+"GO:BP"	"7dpf"	"heart contraction"	0.0169743377234831
+"GO:BP"	"7dpf"	"neural retina development"	0.0169743377234831
+"GO:BP"	"7dpf"	"somite development"	0.0169743377234831
+"GO:BP"	"7dpf"	"regeneration"	0.017486082820243
+"GO:BP"	"7dpf"	"mesenchyme development"	0.0197454352441839
+"GO:BP"	"7dpf"	"determination of heart left/right asymmetry"	0.0197454352441839
+"GO:BP"	"7dpf"	"response to growth factor"	0.0224581755455094
+"GO:BP"	"7dpf"	"cellular response to growth factor stimulus"	0.0224581755455094
+"GO:BP"	"7dpf"	"cellular response to endogenous stimulus"	0.0246742512401549
+"GO:BP"	"7dpf"	"nucleotide biosynthetic process"	0.0252262182630253
+"GO:BP"	"7dpf"	"photoreceptor cell differentiation"	0.0255560750643444
+"GO:BP"	"7dpf"	"cell junction organization"	0.0255560750643444
+"GO:BP"	"7dpf"	"hematopoietic progenitor cell differentiation"	0.0255560750643444
+"GO:BP"	"7dpf"	"regulation of localization"	0.02857622890698
+"GO:BP"	"7dpf"	"mRNA catabolic process"	0.0292388437178608
+"GO:BP"	"7dpf"	"nuclear transport"	0.0292388437178608
+"GO:BP"	"7dpf"	"nucleocytoplasmic transport"	0.0292388437178608
+"GO:BP"	"7dpf"	"negative regulation of biological process"	0.0302091078457124
+"GO:BP"	"7dpf"	"regulation of cell development"	0.0320442926507458
+"GO:BP"	"7dpf"	"pronephros development"	0.0320442926507458
+"GO:BP"	"7dpf"	"neuromast development"	0.0331950689037597
+"GO:BP"	"7dpf"	"nucleotide catabolic process"	0.0331950689037597
+"GO:BP"	"7dpf"	"anatomical structure homeostasis"	0.0331950689037597
+"GO:BP"	"7dpf"	"purine-containing compound catabolic process"	0.0331950689037597
+"GO:BP"	"7dpf"	"embryonic heart tube development"	0.0359544064118939
+"GO:BP"	"7dpf"	"regulation of catabolic process"	0.0359544064118939
+"GO:BP"	"7dpf"	"morphogenesis of an epithelial sheet"	0.0381897155916798
+"GO:BP"	"7dpf"	"digestive tract development"	0.0381897155916798
+"GO:BP"	"7dpf"	"ear development"	0.0383086537996043
+"GO:BP"	"7dpf"	"inner ear development"	0.0383086537996043
+"GO:BP"	"7dpf"	"phospholipid biosynthetic process"	0.0403630091324983
+"GO:BP"	"7dpf"	"autophagy"	0.0403630091324983
+"GO:BP"	"7dpf"	"process utilizing autophagic mechanism"	0.0403630091324983
+"GO:BP"	"7dpf"	"glycerophospholipid metabolic process"	0.0430606983075204
+"GO:BP"	"7dpf"	"convergent extension involved in gastrulation"	0.0432610983397182
+"GO:BP"	"7dpf"	"tissue homeostasis"	0.0432610983397182
+"GO:BP"	"7dpf"	"ATP metabolic process"	0.0432610983397182
+"GO:BP"	"7dpf"	"negative regulation of signaling"	0.0445917797288196
+"GO:BP"	"7dpf"	"negative regulation of cell communication"	0.0445917797288196
+"GO:BP"	"7dpf"	"lateral line development"	0.0453336661402761
+"GO:BP"	"7dpf"	"cell division"	0.0467910086939267
+"GO:BP"	"7dpf"	"actin cytoskeleton organization"	0.0480748551768409
+"GO:BP"	"7dpf"	"purine nucleotide catabolic process"	0.0486962135386954
+"GO:BP"	"7dpf"	"negative regulation of developmental process"	0.0486962135386954
+"GO:BP"	"7dpf"	"protein homooligomerization"	0.0486962135386954
+"GO:BP"	"7dpf"	"negative regulation of signal transduction"	0.0486962135386954
+"GO:BP"	"7dpf"	"exocytosis"	0.0486962135386954
+"GO:BP"	"12dpf"	"regulation of biological process"	0.00118857521292101
+"GO:BP"	"12dpf"	"regulation of cellular process"	0.00396446640975084
+"GO:BP"	"12dpf"	"positive regulation of biological process"	0.00424215179149294
+"GO:BP"	"12dpf"	"blood circulation"	0.00579728723063931
+"GO:BP"	"12dpf"	"carbohydrate metabolic process"	0.020723560884336
+"GO:BP"	"12dpf"	"striated muscle cell development"	0.0218877196829773
+"GO:BP"	"12dpf"	"locomotory behavior"	0.0349683705592358
+"GO:BP"	"12dpf"	"carbohydrate derivative catabolic process"	0.0379600916249927
+"GO:BP"	"12dpf"	"cell migration"	0.0388491118571263

@@ -1,0 +1,41 @@
+"source"	"stage"	"term_name"	"adjusted_p_value"
+"GO:BP"	"3dpf"	"amino acid metabolic process"	0.0321650280560319
+"GO:BP"	"12dpf"	"organophosphate metabolic process"	0.00461348856931227
+"GO:BP"	"12dpf"	"regulation of macromolecule metabolic process"	0.00502664540328644
+"GO:BP"	"12dpf"	"inorganic cation transmembrane transport"	0.00522805683161777
+"GO:BP"	"12dpf"	"regulation of biosynthetic process"	0.00655033968367548
+"GO:BP"	"12dpf"	"monoatomic cation transport"	0.00865837217648657
+"GO:BP"	"12dpf"	"regulation of macromolecule biosynthetic process"	0.00993515181554516
+"GO:BP"	"12dpf"	"regulation of gene expression"	0.0109283944342045
+"GO:BP"	"12dpf"	"carbohydrate metabolic process"	0.020723560884336
+"GO:BP"	"12dpf"	"protein transport"	0.0216275863958675
+"GO:BP"	"12dpf"	"macromolecule localization"	0.0231119659686893
+"GO:BP"	"12dpf"	"purine nucleotide metabolic process"	0.0238518092775617
+"GO:BP"	"12dpf"	"cellular macromolecule localization"	0.0239408396352371
+"GO:BP"	"12dpf"	"retina morphogenesis in camera-type eye"	0.0266231104685129
+"GO:BP"	"12dpf"	"liver development"	0.0266231104685129
+"GO:BP"	"12dpf"	"protein localization"	0.0266702608916319
+"GO:BP"	"12dpf"	"lateral line system development"	0.0296283464490196
+"GO:BP"	"12dpf"	"ribose phosphate metabolic process"	0.0305462868851427
+"GO:BP"	"12dpf"	"embryonic skeletal system morphogenesis"	0.0324613859702799
+"GO:BP"	"12dpf"	"embryonic cranial skeleton morphogenesis"	0.0324613859702799
+"GO:BP"	"12dpf"	"stem cell differentiation"	0.0324613859702799
+"GO:BP"	"12dpf"	"homeostasis of number of cells"	0.0324613859702799
+"GO:BP"	"12dpf"	"ribonucleotide metabolic process"	0.0326220793244713
+"GO:BP"	"12dpf"	"purine-containing compound metabolic process"	0.0335226046107841
+"GO:BP"	"12dpf"	"heart morphogenesis"	0.0349611139367816
+"GO:BP"	"12dpf"	"axon guidance"	0.0349611139367816
+"GO:BP"	"12dpf"	"renal system development"	0.0349611139367816
+"GO:BP"	"12dpf"	"neuron projection guidance"	0.0349611139367816
+"GO:BP"	"12dpf"	"locomotory behavior"	0.0349683705592358
+"GO:BP"	"12dpf"	"skeletal muscle organ development"	0.0349683705592358
+"GO:BP"	"12dpf"	"secretion by cell"	0.0379600916249927
+"GO:BP"	"12dpf"	"epithelial cell differentiation"	0.0379600916249927
+"GO:BP"	"12dpf"	"pancreas development"	0.0379600916249927
+"GO:BP"	"12dpf"	"chloride transport"	0.0379600916249927
+"GO:BP"	"12dpf"	"kidney development"	0.0379600916249927
+"GO:BP"	"12dpf"	"digestive system development"	0.0379600916249927
+"GO:BP"	"12dpf"	"carbohydrate derivative catabolic process"	0.0379600916249927
+"GO:BP"	"12dpf"	"cell migration"	0.0388491118571263
+"GO:BP"	"12dpf"	"chloride transmembrane transport"	0.0422959159574461
+"GO:BP"	"12dpf"	"establishment of protein localization"	0.0440180969695285
